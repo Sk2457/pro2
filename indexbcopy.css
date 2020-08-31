@@ -205,6 +205,13 @@ display:flex;
 align-items:center;
 flex-wrap:wrap;
 }
+.courses-text p{
+font-size:10px; 
+}
+.coto{
+font-size:14px; 
+text-align:justify;  
+}
 .container-left-col{
 flex-basis:50%;
 }
